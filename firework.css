@@ -15,7 +15,7 @@
   body {
     overflow: hidden;
     color: rgba(255, 255, 255, 0.5);
-    font-family: "Russo One", arial, sans-serif;
+    font-family: "Poppins", arial, sans-serif;
     line-height: 1.25;
     letter-spacing: 0.06em;
   }
@@ -374,4 +374,5 @@
             transition-timing-function: ease-out;
     -webkit-transition-duration: 0.4s;
             transition-duration: 0.4s;
+
   }
